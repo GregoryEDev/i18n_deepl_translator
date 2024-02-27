@@ -4,7 +4,7 @@ const https = require("https");
 const deeplUrl = "https://api-free.deepl.com/v2";
 const deeplApiKey = "api-key-here";
 const sourceFile = require("./input/en.json");
-const targetLanguage = "cs";
+const targetLanguage = "de";
 const translatedStrings = {};
 
 const translate = async () => {
