@@ -1,6 +1,6 @@
 {
   "common": {
-    "new_string": "Nuova stringa di prova"
+    "new_string": "Nuova stringa di caratteri"
   },
   "translations": {
     "where_did_you_see_him": "Dove l'hai visto?",
@@ -10,7 +10,7 @@
     "he_reminds_me_of_your_brother": "Mi ricorda tuo fratello.",
     "his_father_owns_the_restaurant": "Suo padre possiede il ristorante.",
     "it_was_all_just_a_big_misunderstanding": "È stato tutto solo un grande malinteso.",
-    "he_adds_something_different_to_the_team": "Lui apporta qualcosa di diverso al team.",
+    "he_adds_something_different_to_the_team": "Porta qualcosa di diverso nel team.",
     "you_use_this_after_something_broken_has_been": "Lo usi dopo aver riparato qualcosa di rotto.",
     "i_told_him_id_spank_the_suitcase_for_being_bad": "Gli dissi che avrei punito la valigia perché era stata cattiva.",
     "you_use_this_after_something_broken_has_been_repaired": "Lo usi dopo che qualcosa di rotto è stato riparato."
