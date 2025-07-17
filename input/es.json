@@ -1,16 +1,17 @@
 {
   "common": {
-    "new_string": "Nueva cadena de texto"
+    "new_string": "Nueva cadena de prueba"
   },
   "translations": {
     "where_did_you_see_him": "¿Dónde lo has visto?",
     "i_cant_make_up_my_mind": "No puedo decidirme test.asd asd",
     "i_want_to_go_to_France": "Quiero ir a Francia.",
-    "thats_it_go_to_timeout": "¡Eso es suficiente, a la pausa!",
+    "thats_it_go_to_timeout": "¡Eso es suficiente, a la banca!",
     "he_reminds_me_of_your_brother": "Me recuerda a tu hermano.",
     "his_father_owns_the_restaurant": "Su padre es dueño del restaurante.",
     "it_was_all_just_a_big_misunderstanding": "Todo fue solo un gran malentendido.",
     "he_adds_something_different_to_the_team": "Aporta algo diferente al equipo.",
+    "you_use_this_after_something_broken_has_been": "Lo usas después de haber reparado algo roto.",
     "i_told_him_id_spank_the_suitcase_for_being_bad": "Le dije que castigaría la maleta por haberse portado mal.",
     "you_use_this_after_something_broken_has_been_repaired": "Lo usas después de que algo roto ha sido reparado."
   }
