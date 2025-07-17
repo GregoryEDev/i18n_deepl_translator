@@ -1,17 +1,18 @@
 {
   "common": {
-    "new_string": "Nouvelle chaîne de caractères"
+    "new_string": "Nouveau test de chaîne de caractères"
   },
   "translations": {
-    "where_did_you_see_him": "Où l’as-tu vu ?",
+    "where_did_you_see_him": "Où l'as-tu vu ?",
     "i_cant_make_up_my_mind": "Je n'arrive pas à me décider test.asd asd",
-    "i_want_to_go_to_France": "Je souhaite aller en France.",
+    "i_want_to_go_to_France": "Je voudrais aller en France.",
     "thats_it_go_to_timeout": "Ça suffit, file en temps mort !",
     "he_reminds_me_of_your_brother": "Il me rappelle ton frère.",
     "his_father_owns_the_restaurant": "Son père possède le restaurant.",
     "it_was_all_just_a_big_misunderstanding": "Ce n'était qu'un grand malentendu.",
     "he_adds_something_different_to_the_team": "Il apporte quelque chose de différent à l'équipe.",
-    "i_told_him_id_spank_the_suitcase_for_being_bad": "Je lui ai dit que je punirais la valise parce qu'elle avait été méchante.",
+    "you_use_this_after_something_broken_has_been": "Tu utilises cela après avoir réparé quelque chose de cassé.",
+    "i_told_him_id_spank_the_suitcase_for_being_bad": "Je lui ai dit que je punirais la valise parce qu'elle avait été désobéissante.",
     "you_use_this_after_something_broken_has_been_repaired": "Tu utilises cela après qu’une chose cassée a été réparée."
   }
 }
