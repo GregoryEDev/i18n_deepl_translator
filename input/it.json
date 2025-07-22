@@ -1,17 +1,16 @@
 {
   "common": {
-    "new_string": "Nuova stringa di caratteri"
+    "new_string": "Nuova stringa"
   },
   "translations": {
     "where_did_you_see_him": "Dove l'hai visto?",
     "i_cant_make_up_my_mind": "Non riesco a decidermi test.asd asd",
     "i_want_to_go_to_France": "Vorrei andare in Francia.",
-    "thats_it_go_to_timeout": "Basta, vai in panchina!",
+    "thats_it_go_to_timeout": "Basta, fuori per una pausa!",
     "he_reminds_me_of_your_brother": "Mi ricorda tuo fratello.",
     "his_father_owns_the_restaurant": "Suo padre possiede il ristorante.",
     "it_was_all_just_a_big_misunderstanding": "È stato tutto solo un grande malinteso.",
-    "he_adds_something_different_to_the_team": "Porta qualcosa di diverso nel team.",
-    "you_use_this_after_something_broken_has_been": "Lo usi dopo aver riparato qualcosa di rotto.",
+    "he_adds_something_different_to_the_team": "Porta qualcosa di diverso nella squadra.",
     "i_told_him_id_spank_the_suitcase_for_being_bad": "Gli dissi che avrei punito la valigia perché era stata cattiva.",
     "you_use_this_after_something_broken_has_been_repaired": "Lo usi dopo che qualcosa di rotto è stato riparato."
   }
