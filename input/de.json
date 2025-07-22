@@ -3,16 +3,16 @@
     "new_string": "Neue Zeichenkette"
   },
   "translations": {
-    "he_adds_something_different_to_the_team": "Er bringt etwas anderes ins Team ein.",
+    "where_did_you_see_him": "Wo hast du ihn gesehen?",
+    "i_cant_make_up_my_mind": "Ich kann mich nicht entscheiden test.asd asd",
+    "i_want_to_go_to_France": "Ich möchte nach Frankreich gehen.",
+    "thats_it_go_to_timeout": "Das reicht, ab in die Auszeit!",
     "he_reminds_me_of_your_brother": "Er erinnert mich an deinen Bruder.",
     "his_father_owns_the_restaurant": "Sein Vater besitzt das Restaurant.",
-    "i_cant_make_up_my_mind": "Ich kann mich nicht entscheiden test.asd asd",
-    "i_told_him_id_spank_the_suitcase_for_being_bad": "Ich sagte ihm, ich würde den Koffer dafür bestrafen, dass er unartig war.",
-    "i_want_to_go_to_France": "Ich möchte nach Frankreich gehen.",
     "it_was_all_just_a_big_misunderstanding": "Es war alles nur ein großes Missverständnis.",
-    "thats_it_go_to_timeout": "Das reicht, ab in die Auszeit!",
-    "where_did_you_see_him": "Wo hast du ihn gesehen?",
-    "you_use_this_after_something_broken_has_been": "Du benutzt das, nachdem etwas Kaputtes repariert",
-    "you_use_this_after_something_broken_has_been_repaired": "Du benutzt das, nachdem etwas Kaputtes repariert wurde."
+    "he_adds_something_different_to_the_team": "Er bringt etwas anderes ins Team ein.",
+    "i_told_him_id_spank_the_suitcase_for_being_bad": "Ich sagte ihm, ich würde den Koffer dafür bestrafen, dass er unartig war.",
+    "you_use_this_after_something_broken_has_been_repaired": "Du benutzt das, nachdem etwas Kaputtes repariert wurde.",
+    "you_use_this_after_something_broken_has_been": "Du benutzt das, nachdem etwas Kaputtes repariert"
   }
 }
