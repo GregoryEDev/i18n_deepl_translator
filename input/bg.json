@@ -1,13 +1,18 @@
 {
-  "where_did_you_see_him": "Къде го видя?",
-  "i_cant_make_up_my_mind": "Не мога да взема решение test.asd asd",
-  "i_want_to_go_to_France": "Искам да отида във Франция.",
-  "thats_it_go_to_timeout": "Достатъчно, време е за почивка!",
-  "he_reminds_me_of_your_brother": "Той ми напомня на твоя брат.",
-  "his_father_owns_the_restaurant": "Баща му притежава ресторанта.",
-  "it_was_all_just_a_big_misunderstanding": "Всичко беше просто едно голямо недоразумение.",
-  "he_adds_something_different_to_the_team": "Той внася нещо различно в екипа.",
-  "i_told_him_id_spank_the_suitcase_for_being_bad": "Казах му, че ще накажа куфара, защото е бил непослушен.",
-  "you_use_this_after_something_broken_has_been_repaired": "Използваш това, след като нещо счупено е било поправено.",
-  "you_use_this_after_something_broken_has_been": "Използваш това, след като нещо счупено е поправено"
+  "common": {
+    "new_string": "Нова низ"
+  },
+  "translations": {
+    "where_did_you_see_him": "Къде го видя?",
+    "i_cant_make_up_my_mind": "Не мога да взема решение test.asd asd",
+    "i_want_to_go_to_France": "Искам да отида във Франция.",
+    "thats_it_go_to_timeout": "Достатъчно, време е за почивка!",
+    "he_reminds_me_of_your_brother": "Той ми напомня на твоя брат.",
+    "his_father_owns_the_restaurant": "Баща му притежава ресторанта.",
+    "it_was_all_just_a_big_misunderstanding": "Всичко беше просто едно голямо недоразумение.",
+    "he_adds_something_different_to_the_team": "Той внася нещо различно в екипа.",
+    "i_told_him_id_spank_the_suitcase_for_being_bad": "Казах му, че ще накажа куфара, защото е бил непослушен.",
+    "you_use_this_after_something_broken_has_been_repaired": "Използваш това, след като нещо счупено е било поправено.",
+    "you_use_this_after_something_broken_has_been": "Използваш това, след като нещо счупено е поправено"
+  }
 }
