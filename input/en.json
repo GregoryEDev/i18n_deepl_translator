@@ -1,6 +1,6 @@
 {
   "common": {
-    "new_string": "New String To change"
+    "new_string": "New String To change.test"
   },
   "translations": {
     "where_did_you_see_him": "Where did you see him?",
@@ -8,7 +8,7 @@
     "i_want_to_go_to_France": "I want to go to France.",
     "thats_it_go_to_timeout": "That's it, go to time-out!",
     "he_reminds_me_of_your_brother": "He reminds me of your brother.",
-    "his_father_owns_the_restaurant": "His father owns the restaurant.  test",
+    "his_father_owns_the_restaurant": "His father owns the restaurant.",
     "it_was_all_just_a_big_misunderstanding": "It was all just a big misunderstanding.",
     "he_adds_something_different_to_the_team": "He adds something different to the team test. test",
     "i_told_him_id_spank_the_suitcase_for_being_bad": "I told him I’d spank the suitcase for being bad.",
